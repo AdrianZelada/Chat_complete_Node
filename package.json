@@ -1,0 +1,18 @@
+{
+  "name": "ChataNodeComplete",
+  "version": "0.0.0",
+  "description": "chat , room,  node , ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "room",
+    "node",
+    "sockets",
+    "io"
+  ],
+  "author": "",
+  "license": "ISC"
+}
